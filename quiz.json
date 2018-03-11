@@ -1,8 +1,5 @@
 [
     {
-        "quiz_size": 402
-    }, 
-    {
         "ID": 0, 
         "docRef": "http://developer.android.com/reference/android/app/Fragment.html", 
         "question": "A stopped fragment is not visible.", 
